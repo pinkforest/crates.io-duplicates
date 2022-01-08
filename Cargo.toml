@@ -3,6 +3,9 @@ name = "crates_io-duplicates"
 version = "0.1.0"
 edition = "2021"
 repository = "https://github.com/pinkforest/crates.io-duplicates"
+license = "Apache-2.0/MIT"
+description = "Checks crates.io index for duplicate versions & conflicting checksums"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
